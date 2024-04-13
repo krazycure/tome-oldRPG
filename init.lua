@@ -1,0 +1,14 @@
+long_name = "OldRPG - Redeemed WIP1"
+short_name = "oldrpg"
+for_module = "tome"
+addon_version = {1,0,0}
+version = {1,6,5}
+tags = {"addon", "tileset", "oldrpg"}
+weight = 100
+author = { "krazycure", "" }
+homepage = "http://te4.org/"
+description = [[Yet Another Rework of OldRPG. This WIP version focuses on replacing copyrighted monster designs with stable diffusion ASperite sprites.]]
+overload = true
+superload = false
+hooks = false
+data = false
